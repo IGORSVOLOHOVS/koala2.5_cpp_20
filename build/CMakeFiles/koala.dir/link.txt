@@ -1,0 +1,1 @@
+/usr/bin/g++ -g CMakeFiles/koala.dir/main.cpp.o -o koala  ../lib/libkoala.a 
